@@ -1,0 +1,11 @@
+{
+  "cursorbegone.midnightconfig.title": "Cursor Be Gone config",
+  "cursorbegone.midnightconfig.hideCursorInPause.tooltip": "Hide the cursor in the pause menu",
+  "cursorbegone.midnightconfig.hideCursorInPause": "Hide cursor in pause menu",
+  "cursorbegone.midnightconfig.hideCursorInTitle.tooltip": "Hide the cursor in the title screen",
+  "cursorbegone.midnightconfig.hideCursorInTitle": "Hide cursor in the title screen",
+  "cursorbegone.midnightconfig.hideFallback.tooltip": "Sets the fallback mode, if set to true the cursor will hide.",
+  "cursorbegone.midnightconfig.hideFallback": "Fallback mode",
+  "cursorbegone.midnightconfig.hideCursorInBackpack.tooltip": "Hide the cursor in the inventory",
+  "cursorbegone.midnightconfig.hideCursorInBackpack": "Hide cursor in the inventory"
+}
